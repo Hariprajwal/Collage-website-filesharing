@@ -2,7 +2,7 @@
 
 **JIT File-Sharing Portal** is a dedicated web platform built specifically for the students and faculty of **Jyothy Institute of Technology (JIT), Bangalore**. It simplifies the exchange of academic materials, from VTU-aligned notes to department-specific lab manuals.
 
-🚀 **[Access the JIT Portal Live](https://collage-website-filesharing.vercel.app/)**
+🚀 **[Access the JIT Portal Live](https://sites.google.com/view/jyothifiles/home)**
 
 ## ✨ Campus-Specific Features
 * **Department Filtering:** Organize files by CSE, ISE, ECE, and other JIT departments.
